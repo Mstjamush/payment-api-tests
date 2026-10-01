@@ -1,0 +1,2 @@
+invoice_number,amount,description
+INVUP-TESTDATA-NOCURRENCY,120,Relies on the form field's currency default

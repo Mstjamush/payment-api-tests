@@ -1,0 +1,2 @@
+invoice_number,currency,description
+INVUP-TESTDATA-NOAMOUNT,KES,This file has no amount column at all

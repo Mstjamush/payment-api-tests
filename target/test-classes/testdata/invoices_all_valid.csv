@@ -1,0 +1,4 @@
+invoice_number,amount,currency,description
+INVUP-TESTDATA-A,100,KES,First valid row
+INVUP-TESTDATA-B,250.50,KES,Second valid row
+INVUP-TESTDATA-C,75,KES,Third valid row

@@ -1,0 +1,3 @@
+invoice_number,amount,currency,description
+INVUP-TESTDATA-ALLBAD-1,-10,KES,Negative amount
+INVUP-TESTDATA-ALLBAD-2,0,KES,Zero amount

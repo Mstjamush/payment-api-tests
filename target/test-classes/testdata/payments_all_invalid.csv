@@ -1,0 +1,3 @@
+merchant_payment_id,amount,currency,phone
+PAYUP-TESTDATA-ALLBAD-1,100,KES,
+PAYUP-TESTDATA-ALLBAD-2,-10,KES,254700000111

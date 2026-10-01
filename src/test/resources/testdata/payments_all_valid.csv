@@ -1,0 +1,3 @@
+merchant_payment_id,amount,currency,phone
+PAYUP-TESTDATA-A,100,KES,254700000111
+PAYUP-TESTDATA-B,50.25,KES,254700000222

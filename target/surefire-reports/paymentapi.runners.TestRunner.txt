@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: paymentapi.runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 448, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 292.6 s -- in paymentapi.runners.TestRunner

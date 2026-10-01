@@ -1,0 +1,5 @@
+invoice_number,amount,currency,description
+INVUP-TESTDATA-OK-1,100,KES,Valid row one
+INVUP-TESTDATA-BAD-1,-50,KES,Negative amount is rejected
+INVUP-TESTDATA-BAD-2,,KES,Missing amount is rejected
+INVUP-TESTDATA-OK-1,200,KES,Duplicate invoice number of row one
